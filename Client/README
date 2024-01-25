@@ -1,0 +1,3 @@
+// step1=>clone or fork this project 
+// step2=>install the node modules
+// step3=> setup an .env filee and add VITE_Baseurl add the backend base url
